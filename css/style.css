@@ -255,7 +255,7 @@ nav a.button-collapse {
 }
 
 .card .card-content p {
-    margin: 15px 0px;
+    margin: 20px 0px;
 }
 
 .card-avatar .card-content i {
@@ -263,7 +263,7 @@ nav a.button-collapse {
 }
 
 .card-avatar .card-content .card-title {
-    line-height: 30px !important;
+    line-height: 10px !important;
 }
 
 .parallax-container {
@@ -286,7 +286,7 @@ footer.page-footer {
     width: 100px;
 }
 #call_btn {
-    border-radius: 25px;
+    border-radius: 30px;
     background: #73AD21;
     padding: 20px; 
     width: 200px;
